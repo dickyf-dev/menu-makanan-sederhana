@@ -1,0 +1,31 @@
+[
+{
+    "nama": "dicky facturiawan",
+    "umur": 12,
+    "nrp": "08912345671",
+    "lulus": true,
+    "hobby": [
+        "coding",
+        "gaming"
+    ],
+    "pembimbing": {
+"pembimbing1":"pak hendy",
+"pembimbing2":"pak rahmad"
+    }
+},
+
+{
+    "nama": "dicky facturiawan",
+    "umur": 12,
+    "nrp": "08912345671",
+    "lulus": true,
+    "hobby": [
+        "coding",
+        "gaming"
+    ],
+    "pembimbing": {
+"pembimbing1":"pak hendy",
+"pembimbing2":"pak rahmad"
+    }
+}
+]
